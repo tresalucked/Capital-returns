@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Aug 2022 16:04:38 at https://www.capitalreturnsinc.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.capitalreturnsinc.com/ -O1 "C:\Users\USER\Documents\.Ex life\capitalreturns" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:07:22	Error: 	"Not Found" (404) at link https://www.capitalreturnsinc.com/feed (from https://www.capitalreturnsinc.com/)
+16:07:22	Error: 	"Not Found" (404) at link https://www.capitalreturnsinc.com/comments/feed (from https://www.capitalreturnsinc.com/)
+16:09:18	Error: 	"Not Found" (404) at link https://www.capitalreturnsinc.com/xmlrpc0db0.php?rsd (from https://www.capitalreturnsinc.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 7 seconds : 275 links scanned, 271 files written (23327815 bytes overall) [10894460 bytes received at 35486 bytes/sec], 17456364 bytes transferred using HTTP compression in 161 files, ratio 27%
+(3 errors, 0 warnings, 0 messages)

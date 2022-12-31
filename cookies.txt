@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.coingecko.com	TRUE	/	FALSE	1999999999	__cfduid	d2a9e8909700ecf4dccc306c0a8eb9aa11616732887
+assets.coingecko.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.profitcoin.ltd	TRUE	/	FALSE	1999999999	__cfduid	d836f2e1fe6cf4c32efbcfd8381e15e701616733171
+profitcoin.ltd	TRUE	/	FALSE	1999999999	SameSite	Lax
+
