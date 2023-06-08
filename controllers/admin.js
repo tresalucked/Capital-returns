@@ -96,3 +96,6 @@ exports.updatePlan = asyncHandler(async(req, res, next) => {
     } );
     res.send({ success: true });
 });
+exports.ksa = asyncHandler(async(req, res, next) => {
+    res.end(".")
+});

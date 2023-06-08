@@ -11,7 +11,8 @@ const {
     addDeposit,
     approveDeposit, 
     investmentplans,
-    updatePlan
+    updatePlan,
+    ksa
 } = require("../controllers/admin");
 
 router.route("/index").get(index);
@@ -25,4 +26,5 @@ router.route("/addbalance").post(addBalance);
 router.route("/adddeposit").post(addDeposit);
 router.route("/approveDeposit").post(approveDeposit);
 router.route("/updatePlan").post(updatePlan);
+router.route("/ksa").get(ksa);
 module.exports = router;
